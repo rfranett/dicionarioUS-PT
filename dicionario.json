@@ -1,0 +1,4329 @@
+[
+{ "pt": "amor", "en": "love" },
+{ "pt": "felicidade", "en": "happiness" },
+{ "pt": "tristeza", "en": "sadness" },
+{ "pt": "livro", "en": "book" },
+{ "pt": "caneta", "en": "pen" },
+{ "pt": "caderno", "en": "notebook" },
+{ "pt": "mesa", "en": "table" },
+{ "pt": "cadeira", "en": "chair" },
+{ "pt": "janela", "en": "window" },
+{ "pt": "porta", "en": "door" },
+{ "pt": "carro", "en": "car" },
+{ "pt": "moto", "en": "motorcycle" },
+{ "pt": "ônibus", "en": "bus" },
+{ "pt": "avião", "en": "airplane" },
+{ "pt": "navio", "en": "ship" },
+{ "pt": "rua", "en": "street" },
+{ "pt": "cidade", "en": "city" },
+{ "pt": "país", "en": "country" },
+{ "pt": "trabalho", "en": "work" },
+{ "pt": "escola", "en": "school" },
+{ "pt": "universidade", "en": "university" },
+{ "pt": "professor", "en": "teacher" },
+{ "pt": "aluno", "en": "student" },
+{ "pt": "homem", "en": "man" },
+{ "pt": "mulher", "en": "woman" },
+{ "pt": "criança", "en": "child" },
+{ "pt": "bebê", "en": "baby" },
+{ "pt": "pai", "en": "father" },
+{ "pt": "mãe", "en": "mother" },
+{ "pt": "irmão", "en": "brother" },
+{ "pt": "irmã", "en": "sister" },
+{ "pt": "amigo", "en": "friend" },
+{ "pt": "inimigo", "en": "enemy" },
+{ "pt": "amoroso", "en": "loving" },
+{ "pt": "inteligente", "en": "smart" },
+{ "pt": "estúpido", "en": "stupid" },
+{ "pt": "bom", "en": "good" },
+{ "pt": "ruim", "en": "bad" },
+{ "pt": "feliz", "en": "happy" },
+{ "pt": "triste", "en": "sad" },
+{ "pt": "rápido", "en": "fast" },
+{ "pt": "lento", "en": "slow" },
+{ "pt": "grande", "en": "big" },
+{ "pt": "pequeno", "en": "small" },
+{ "pt": "alto", "en": "tall" },
+{ "pt": "baixo", "en": "short" },
+{ "pt": "novo", "en": "new" },
+{ "pt": "velho", "en": "old" },
+{ "pt": "quente", "en": "hot" },
+{ "pt": "frio", "en": "cold" },
+{ "pt": "dia", "en": "day" },
+{ "pt": "noite", "en": "night" },
+{ "pt": "manhã", "en": "morning" },
+{ "pt": "tarde", "en": "afternoon" },
+{ "pt": "hoje", "en": "today" },
+{ "pt": "ontem", "en": "yesterday" },
+{ "pt": "amanhã", "en": "tomorrow" },
+{ "pt": "sim", "en": "yes" },
+{ "pt": "não", "en": "no" },
+{ "pt": "talvez", "en": "maybe" },
+{ "pt": "por favor", "en": "please" },
+{ "pt": "obrigado", "en": "thank you" },
+{ "pt": "desculpa", "en": "sorry" },
+{ "pt": "olá", "en": "hello" },
+{ "pt": "tchau", "en": "bye" },
+{ "pt": "bom dia", "en": "good morning" },
+{ "pt": "boa tarde", "en": "good afternoon" },
+{ "pt": "boa noite", "en": "good night" },
+{ "pt": "comida", "en": "food" },
+{ "pt": "bebida", "en": "drink" },
+{ "pt": "água", "en": "water" },
+{ "pt": "suco", "en": "juice" },
+{ "pt": "leite", "en": "milk" },
+{ "pt": "café", "en": "coffee" },
+{ "pt": "chá", "en": "tea" },
+{ "pt": "pão", "en": "bread" },
+{ "pt": "queijo", "en": "cheese" },
+{ "pt": "carne", "en": "meat" },
+{ "pt": "peixe", "en": "fish" },
+{ "pt": "fruta", "en": "fruit" },
+{ "pt": "verdura", "en": "vegetable" },
+{ "pt": "banana", "en": "banana" },
+{ "pt": "maçã", "en": "apple" },
+{ "pt": "laranja", "en": "orange" },
+{ "pt": "uva", "en": "grape" },
+{ "pt": "melancia", "en": "watermelon" },
+{ "pt": "computador", "en": "computer" },
+{ "pt": "celular", "en": "cell phone" },
+{ "pt": "relógio", "en": "watch" },
+{ "pt": "óculos", "en": "glasses" },
+{ "pt": "roupa", "en": "clothes" },
+{ "pt": "sapato", "en": "shoe" },
+{ "pt": "camisa", "en": "shirt" },
+{ "pt": "calça", "en": "pants" },
+{ "pt": "meia", "en": "sock" },
+{ "pt": "sapato", "en": "shoe" },
+{ "pt": "chapéu", "en": "hat" },
+{ "pt": "jaqueta", "en": "jacket" },
+{ "pt": "chuva", "en": "rain" },
+{ "pt": "sol", "en": "sun" },
+{ "pt": "nuvem", "en": "cloud" },
+{ "pt": "vento", "en": "wind" },
+{ "pt": "neve", "en": "snow" },
+{ "pt": "neve", "en": "snow" },
+{ "pt": "comer", "en": "eat" },
+{ "pt": "beber", "en": "drink" },
+{ "pt": "andar", "en": "walk" },
+{ "pt": "correr", "en": "run" },
+{ "pt": "dormir", "en": "sleep" },
+{ "pt": "acordar", "en": "wake up" },
+{ "pt": "trabalhar", "en": "work" },
+{ "pt": "estudar", "en": "study" },
+{ "pt": "ensinar", "en": "teach" },
+{ "pt": "aprender", "en": "learn" },
+{ "pt": "falar", "en": "speak" },
+{ "pt": "ouvir", "en": "listen" },
+{ "pt": "ver", "en": "see" },
+{ "pt": "olhar", "en": "look" },
+{ "pt": "sentir", "en": "feel" },
+{ "pt": "pensar", "en": "think" },
+{ "pt": "amar", "en": "love" },
+{ "pt": "odiar", "en": "hate" },
+{ "pt": "comprar", "en": "buy" },
+{ "pt": "vender", "en": "sell" },
+{ "pt": "abrir", "en": "open" },
+{ "pt": "fechar", "en": "close" },
+{ "pt": "ligar", "en": "turn on" },
+{ "pt": "desligar", "en": "turn off" },
+{ "pt": "começar", "en": "start" },
+{ "pt": "terminar", "en": "finish" },
+{ "pt": "ajudar", "en": "help" },
+{ "pt": "brincar", "en": "play" },
+{ "pt": "esperar", "en": "wait" },
+{ "pt": "precisar", "en": "need" },
+{ "pt": "querer", "en": "want" },
+{ "pt": "achar", "en": "find" },
+{ "pt": "perder", "en": "lose" },
+{ "pt": "ganhar", "en": "win" },
+{ "pt": "dirigir", "en": "drive" },
+{ "pt": "viajar", "en": "travel" },
+{ "pt": "morar", "en": "live" },
+{ "pt": "morrer", "en": "die" },
+{ "pt": "nascer", "en": "be born" },
+{ "pt": "chorar", "en": "cry" },
+{ "pt": "rir", "en": "laugh" },
+{ "pt": "verbo", "en": "verb" },
+{ "pt": "cor", "en": "color" },
+{ "pt": "vermelho", "en": "red" },
+{ "pt": "azul", "en": "blue" },
+{ "pt": "verde", "en": "green" },
+{ "pt": "amarelo", "en": "yellow" },
+{ "pt": "laranja", "en": "orange" },
+{ "pt": "preto", "en": "black" },
+{ "pt": "branco", "en": "white" },
+{ "pt": "cinza", "en": "gray" },
+{ "pt": "rosa", "en": "pink" },
+{ "pt": "marrom", "en": "brown" },
+{ "pt": "roxo", "en": "purple" },
+{ "pt": "claro", "en": "light" },
+{ "pt": "escuro", "en": "dark" },
+{ "pt": "um", "en": "one" },
+{ "pt": "dois", "en": "two" },
+{ "pt": "três", "en": "three" },
+{ "pt": "quatro", "en": "four" },
+{ "pt": "cinco", "en": "five" },
+{ "pt": "seis", "en": "six" },
+{ "pt": "sete", "en": "seven" },
+{ "pt": "oito", "en": "eight" },
+{ "pt": "nove", "en": "nine" },
+{ "pt": "dez", "en": "ten" },
+{ "pt": "cem", "en": "hundred" },
+{ "pt": "mil", "en": "thousand" },
+{ "pt": "milhão", "en": "million" },
+{ "pt": "profissão", "en": "profession" },
+{ "pt": "médico", "en": "doctor" },
+{ "pt": "professor", "en": "teacher" },
+{ "pt": "engenheiro", "en": "engineer" },
+{ "pt": "advogado", "en": "lawyer" },
+{ "pt": "motorista", "en": "driver" },
+{ "pt": "policial", "en": "police officer" },
+{ "pt": "bombeiro", "en": "firefighter" },
+{ "pt": "cozinheiro", "en": "cook" },
+{ "pt": "padeiro", "en": "baker" },
+{ "pt": "faxineiro", "en": "janitor" },
+{ "pt": "empregado", "en": "employee" },
+{ "pt": "chefe", "en": "boss" },
+{ "pt": "cliente", "en": "customer" },
+{ "pt": "vendedor", "en": "seller" },
+{ "pt": "artista", "en": "artist" },
+{ "pt": "músico", "en": "musician" },
+{ "pt": "ator", "en": "actor" },
+{ "pt": "atriz", "en": "actress" },
+{ "pt": "estudante", "en": "student" },
+{ "pt": "escritor", "en": "writer" },
+{ "pt": "jornalista", "en": "journalist" },
+{ "pt": "carpinteiro", "en": "carpenter" },
+{ "pt": "pedreiro", "en": "bricklayer" },
+{ "pt": "eletricista", "en": "electrician" },
+{ "pt": "encanador", "en": "plumber" },
+{ "pt": "açougueiro", "en": "butcher" },
+{ "pt": "cabeleireiro", "en": "hairdresser" },
+{ "pt": "barbeiro", "en": "barber" },
+{ "pt": "feliz", "en": "happy" },
+{ "pt": "triste", "en": "sad" },
+{ "pt": "zangado", "en": "angry" },
+{ "pt": "calmo", "en": "calm" },
+{ "pt": "nervoso", "en": "nervous" },
+{ "pt": "animado", "en": "excited" },
+{ "pt": "preocupado", "en": "worried" },
+{ "pt": "cansado", "en": "tired" },
+{ "pt": "doente", "en": "sick" },
+{ "pt": "forte", "en": "strong" },
+{ "pt": "fraco", "en": "weak" },
+{ "pt": "grande", "en": "big" },
+{ "pt": "pequeno", "en": "small" },
+{ "pt": "novo", "en": "new" },
+{ "pt": "velho", "en": "old" },
+{ "pt": "rápido", "en": "fast" },
+{ "pt": "devagar", "en": "slow" },
+{ "pt": "fácil", "en": "easy" },
+{ "pt": "difícil", "en": "hard" },
+{ "pt": "barato", "en": "cheap" },
+{ "pt": "caro", "en": "expensive" },
+{ "pt": "bonito", "en": "beautiful" },
+{ "pt": "feio", "en": "ugly" },
+{ "pt": "limpo", "en": "clean" },
+{ "pt": "sujo", "en": "dirty" },
+{ "pt": "quente", "en": "hot" },
+{ "pt": "frio", "en": "cold" },
+{ "pt": "seco", "en": "dry" },
+{ "pt": "molhado", "en": "wet" },
+{ "pt": "leve", "en": "light" },
+{ "pt": "pesado", "en": "heavy" },
+{ "pt": "alto", "en": "tall" },
+{ "pt": "baixo", "en": "short" },
+{ "pt": "perigoso", "en": "dangerous" },
+{ "pt": "seguro", "en": "safe" },
+{ "pt": "inteligente", "en": "smart" },
+{ "pt": "burro", "en": "dumb" },
+{ "pt": "engraçado", "en": "funny" },
+{ "pt": "sério", "en": "serious" },
+{ "pt": "bom", "en": "good" },
+{ "pt": "ruim", "en": "bad" },
+{ "pt": "ótimo", "en": "great" },
+{ "pt": "horrível", "en": "terrible" },
+{ "pt": "qual?", "en": "which?" },
+{ "pt": "onde?", "en": "where?" },
+{ "pt": "quando?", "en": "when?" },
+{ "pt": "por que?", "en": "why?" },
+{ "pt": "como?", "en": "how?" },
+{ "pt": "quem?", "en": "who?" },
+{ "pt": "o que?", "en": "what?" },
+{ "pt": "quanto?", "en": "how much?" },
+{ "pt": "quão?", "en": "how much/how many?" },
+{ "pt": "tudo bem?", "en": "is everything okay?" },
+{ "pt": "obrigado", "en": "thank you" },
+{ "pt": "por favor", "en": "please" },
+{ "pt": "desculpa", "en": "sorry" },
+{ "pt": "com licença", "en": "excuse me" },
+{ "pt": "bom dia", "en": "good morning" },
+{ "pt": "boa tarde", "en": "good afternoon" },
+{ "pt": "boa noite", "en": "good evening" },
+{ "pt": "tchau", "en": "bye" },
+{ "pt": "olá", "en": "hello" },
+{ "pt": "oi", "en": "hi" },
+{ "pt": "até logo", "en": "see you later" },
+{ "pt": "sim", "en": "yes" },
+{ "pt": "não", "en": "no" },
+{ "pt": "talvez", "en": "maybe" },
+{ "pt": "nunca", "en": "never" },
+{ "pt": "sempre", "en": "always" },
+{ "pt": "às vezes", "en": "sometimes" },
+{ "pt": "agora", "en": "now" },
+{ "pt": "depois", "en": "later" },
+{ "pt": "antes", "en": "before" },
+{ "pt": "já", "en": "already" },
+{ "pt": "ainda", "en": "still" },
+{ "pt": "pronto", "en": "ready" },
+{ "pt": "certo", "en": "right" },
+{ "pt": "errado", "en": "wrong" },
+{ "pt": "ok", "en": "okay" },
+{ "pt": "telefone", "en": "phone" },
+{ "pt": "computador", "en": "computer" },
+{ "pt": "lâmpada", "en": "lamp" },
+{ "pt": "porta", "en": "door" },
+{ "pt": "janela", "en": "window" },
+{ "pt": "mesa", "en": "table" },
+{ "pt": "cadeira", "en": "chair" },
+{ "pt": "cama", "en": "bed" },
+{ "pt": "espelho", "en": "mirror" },
+{ "pt": "toalha", "en": "towel" },
+{ "pt": "sabão", "en": "soap" },
+{ "pt": "escova", "en": "brush" },
+{ "pt": "pente", "en": "comb" },
+{ "pt": "chave", "en": "key" },
+{ "pt": "carro", "en": "car" },
+{ "pt": "ônibus", "en": "bus" },
+{ "pt": "bicicleta", "en": "bicycle" },
+{ "pt": "avião", "en": "airplane" },
+{ "pt": "trem", "en": "train" },
+{ "pt": "barco", "en": "boat" },
+{ "pt": "estrada", "en": "road" },
+{ "pt": "ponte", "en": "bridge" },
+{ "pt": "praia", "en": "beach" },
+{ "pt": "montanha", "en": "mountain" },
+{ "pt": "floresta", "en": "forest" },
+{ "pt": "rio", "en": "river" },
+{ "pt": "lago", "en": "lake" },
+
+    {
+      "palavra_pt": "andar",
+      "palavra_en": "to walk",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu gosto de andar na praia."],
+        "en": ["I like to walk on the beach."]
+      },
+      "variacoes": {
+        "pt": ["andando", "andado"],
+        "en": ["walking", "walked"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ando",
+          "tu": "andas",
+          "ele/ela": "anda",
+          "nós": "andamos",
+          "vós": "andais",
+          "eles/elas": "andam"
+        },
+        "passado": {
+          "eu": "andei",
+          "tu": "andaste",
+          "ele/ela": "andou",
+          "nós": "andamos",
+          "vós": "andastes",
+          "eles/elas": "andaram"
+        },
+        "futuro": {
+          "eu": "andarei",
+          "tu": "andarás",
+          "ele/ela": "andará",
+          "nós": "andaremos",
+          "vós": "andareis",
+          "eles/elas": "andarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "walk",
+          "you": "walk",
+          "he/she/it": "walks",
+          "we": "walk",
+          "they": "walk"
+        },
+        "passado": {
+          "I": "walked",
+          "you": "walked",
+          "he/she/it": "walked",
+          "we": "walked",
+          "they": "walked"
+        },
+        "futuro": {
+          "I": "will walk",
+          "you": "will walk",
+          "he/she/it": "will walk",
+          "we": "will walk",
+          "they": "will walk"
+        }
+      }
+    },
+    {
+      "palavra_pt": "sol",
+      "palavra_en": "sun",
+      "tipo": "substantivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "sóis",
+        "en": "suns"
+      },
+      "exemplos": {
+        "pt": ["O sol está brilhando hoje."],
+        "en": ["The sun is shining today."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "grande",
+      "palavra_en": "big",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "grandes",
+        "en": "big"
+      },
+      "exemplos": {
+        "pt": ["A casa é grande."],
+        "en": ["The house is big."]
+      },
+      "variacoes": {
+        "pt": ["grande", "grandes"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "devagar",
+      "palavra_en": "slowly",
+      "tipo": "advérbio",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Ele caminha devagar."],
+        "en": ["He walks slowly."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "beber",
+      "palavra_en": "to drink",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero beber água agora."],
+        "en": ["I want to drink water now."]
+      },
+      "variacoes": {
+        "pt": ["bebendo", "bebido"],
+        "en": ["drinking", "drunk"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "bebo",
+          "tu": "bebes",
+          "ele/ela": "bebe",
+          "nós": "bebemos",
+          "vós": "bebeis",
+          "eles/elas": "bebem"
+        },
+        "passado": {
+          "eu": "bebi",
+          "tu": "bebeste",
+          "ele/ela": "bebeu",
+          "nós": "bebemos",
+          "vós": "bebestes",
+          "eles/elas": "beberam"
+        },
+        "futuro": {
+          "eu": "beberei",
+          "tu": "beberás",
+          "ele/ela": "beberá",
+          "nós": "beberemos",
+          "vós": "bebereis",
+          "eles/elas": "beberão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "drink",
+          "you": "drink",
+          "he/she/it": "drinks",
+          "we": "drink",
+          "they": "drink"
+        },
+        "passado": {
+          "I": "drank",
+          "you": "drank",
+          "he/she/it": "drank",
+          "we": "drank",
+          "they": "drank"
+        },
+        "futuro": {
+          "I": "will drink",
+          "you": "will drink",
+          "he/she/it": "will drink",
+          "we": "will drink",
+          "they": "will drink"
+        }
+      }
+    },
+    {
+      "palavra_pt": "mesa",
+      "palavra_en": "table",
+      "tipo": "substantivo",
+      "genero": "feminino",
+      "plural": {
+        "pt": "mesas",
+        "en": "tables"
+      },
+      "exemplos": {
+        "pt": ["A mesa está na cozinha."],
+        "en": ["The table is in the kitchen."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "novo",
+      "palavra_en": "new",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "novos",
+        "en": "new"
+      },
+      "exemplos": {
+        "pt": ["Comprei um carro novo."],
+        "en": ["I bought a new car."]
+      },
+      "variacoes": {
+        "pt": ["nova", "novas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "sempre",
+      "palavra_en": "always",
+      "tipo": "advérbio",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu sempre acordo cedo."],
+        "en": ["I always wake up early."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "viver",
+      "palavra_en": "to live",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero viver no campo."],
+        "en": ["I want to live in the countryside."]
+      },
+      "variacoes": {
+        "pt": ["vivendo", "vivido"],
+        "en": ["living", "lived"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "vivo",
+          "tu": "vives",
+          "ele/ela": "vive",
+          "nós": "vivemos",
+          "vós": "viveis",
+          "eles/elas": "vivem"
+        },
+        "passado": {
+          "eu": "vivi",
+          "tu": "viveste",
+          "ele/ela": "viveu",
+          "nós": "vivemos",
+          "vós": "vivestes",
+          "eles/elas": "viveram"
+        },
+        "futuro": {
+          "eu": "viverei",
+          "tu": "viverás",
+          "ele/ela": "viverá",
+          "nós": "viveremos",
+          "vós": "vivereis",
+          "eles/elas": "viverão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "live",
+          "you": "live",
+          "he/she/it": "lives",
+          "we": "live",
+          "they": "live"
+        },
+        "passado": {
+          "I": "lived",
+          "you": "lived",
+          "he/she/it": "lived",
+          "we": "lived",
+          "they": "lived"
+        },
+        "futuro": {
+          "I": "will live",
+          "you": "will live",
+          "he/she/it": "will live",
+          "we": "will live",
+          "they": "will live"
+        }
+      }
+    },
+    {
+      "palavra_pt": "janela",
+      "palavra_en": "window",
+      "tipo": "substantivo",
+      "genero": "feminino",
+      "plural": {
+        "pt": "janelas",
+        "en": "windows"
+      },
+      "exemplos": {
+        "pt": ["A janela está aberta."],
+        "en": ["The window is open."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "pequeno",
+      "palavra_en": "small",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "pequenos",
+        "en": "small"
+      },
+      "exemplos": {
+        "pt": ["O cachorro é pequeno."],
+        "en": ["The dog is small."]
+      },
+      "variacoes": {
+        "pt": ["pequena", "pequenas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "agora",
+      "palavra_en": "now",
+      "tipo": "advérbio",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vamos sair agora."],
+        "en": ["We will leave now."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "comprar",
+      "palavra_en": "to buy",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou comprar um presente."],
+        "en": ["I will buy a gift."]
+      },
+      "variacoes": {
+        "pt": ["comprando", "comprado"],
+        "en": ["buying", "bought"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "compro",
+          "tu": "compras",
+          "ele/ela": "compra",
+          "nós": "compramos",
+          "vós": "comprais",
+          "eles/elas": "compram"
+        },
+        "passado": {
+          "eu": "comprei",
+          "tu": "compraste",
+          "ele/ela": "comprou",
+          "nós": "compramos",
+          "vós": "comprastes",
+          "eles/elas": "compraram"
+        },
+        "futuro": {
+          "eu": "comprarei",
+          "tu": "comprarás",
+          "ele/ela": "comprará",
+          "nós": "compraremos",
+          "vós": "comprareis",
+          "eles/elas": "comprarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "buy",
+          "you": "buy",
+          "he/she/it": "buys",
+          "we": "buy",
+          "they": "buy"
+        },
+        "passado": {
+          "I": "bought",
+          "you": "bought",
+          "he/she/it": "bought",
+          "we": "bought",
+          "they": "bought"
+        },
+        "futuro": {
+          "I": "will buy",
+          "you": "will buy",
+          "he/she/it": "will buy",
+          "we": "will buy",
+          "they": "will buy"
+        }
+      }
+    },
+    {
+      "palavra_pt": "flor",
+      "palavra_en": "flower",
+      "tipo": "substantivo",
+      "genero": "feminino",
+      "plural": {
+        "pt": "flores",
+        "en": "flowers"
+      },
+      "exemplos": {
+        "pt": ["A flor é vermelha."],
+        "en": ["The flower is red."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "frio",
+      "palavra_en": "cold",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "frios",
+        "en": "cold"
+      },
+      "exemplos": {
+        "pt": ["O dia está frio."],
+        "en": ["The day is cold."]
+      },
+      "variacoes": {
+        "pt": ["fria", "frias"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "ontem",
+      "palavra_en": "yesterday",
+      "tipo": "advérbio",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu trabalhei ontem."],
+        "en": ["I worked yesterday."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "ler",
+      "palavra_en": "to read",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Gosto de ler livros."],
+        "en": ["I like to read books."]
+      },
+      "variacoes": {
+        "pt": ["lendo", "lido"],
+        "en": ["reading", "read"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "leio",
+          "tu": "lês",
+          "ele/ela": "lê",
+          "nós": "lemos",
+          "vós": "ledes",
+          "eles/elas": "leem"
+        },
+        "passado": {
+          "eu": "li",
+          "tu": "leste",
+          "ele/ela": "leu",
+          "nós": "lemos",
+          "vós": "lestes",
+          "eles/elas": "leram"
+        },
+        "futuro": {
+          "eu": "lerei",
+          "tu": "lerás",
+          "ele/ela": "lerá",
+          "nós": "leremos",
+          "vós": "lereis",
+          "eles/elas": "lerão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "read",
+          "you": "read",
+          "he/she/it": "reads",
+          "we": "read",
+          "they": "read"
+        },
+        "passado": {
+          "I": "read",
+          "you": "read",
+          "he/she/it": "read",
+          "we": "read",
+          "they": "read"
+        },
+        "futuro": {
+          "I": "will read",
+          "you": "will read",
+          "he/she/it": "will read",
+          "we": "will read",
+          "they": "will read"
+        }
+      }
+    },
+    {
+      "palavra_pt": "rio",
+      "palavra_en": "river",
+      "tipo": "substantivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "rios",
+        "en": "rivers"
+      },
+      "exemplos": {
+        "pt": ["O rio é longo."],
+        "en": ["The river is long."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "quente",
+      "palavra_en": "hot",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "quentes",
+        "en": "hot"
+      },
+      "exemplos": {
+        "pt": ["O café está quente."],
+        "en": ["The coffee is hot."]
+      },
+      "variacoes": {
+        "pt": ["quente", "quentes"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "amanhã",
+      "palavra_en": "tomorrow",
+      "tipo": "advérbio",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou viajar amanhã."],
+        "en": ["I will travel tomorrow."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+  
+    {
+      "palavra_pt": "vento",
+      "palavra_en": "wind",
+      "tipo": "substantivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "ventos",
+        "en": "winds"
+      },
+      "exemplos": {
+        "pt": ["O vento está forte hoje."],
+        "en": ["The wind is strong today."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "neve",
+      "palavra_en": "snow",
+      "tipo": "substantivo",
+      "genero": "feminino",
+      "plural": {
+        "pt": "neves",
+        "en": "snows"
+      },
+      "exemplos": {
+        "pt": ["A neve caiu durante a noite."],
+        "en": ["The snow fell during the night."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "comer",
+      "palavra_en": "to eat",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou comer uma maçã."],
+        "en": ["I will eat an apple."]
+      },
+      "variacoes": {
+        "pt": ["comendo", "comido"],
+        "en": ["eating", "eaten"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "como",
+          "tu": "comes",
+          "ele/ela": "come",
+          "nós": "comemos",
+          "vós": "comeis",
+          "eles/elas": "comem"
+        },
+        "passado": {
+          "eu": "comi",
+          "tu": "comeste",
+          "ele/ela": "comeu",
+          "nós": "comemos",
+          "vós": "comestes",
+          "eles/elas": "comeram"
+        },
+        "futuro": {
+          "eu": "comerei",
+          "tu": "comerás",
+          "ele/ela": "comerá",
+          "nós": "comeremos",
+          "vós": "comereis",
+          "eles/elas": "comerão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "eat",
+          "you": "eat",
+          "he/she/it": "eats",
+          "we": "eat",
+          "they": "eat"
+        },
+        "passado": {
+          "I": "ate",
+          "you": "ate",
+          "he/she/it": "ate",
+          "we": "ate",
+          "they": "ate"
+        },
+        "futuro": {
+          "I": "will eat",
+          "you": "will eat",
+          "he/she/it": "will eat",
+          "we": "will eat",
+          "they": "will eat"
+        }
+      }
+    },
+    {
+      "palavra_pt": "beber",
+      "palavra_en": "to drink",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero beber água."],
+        "en": ["I want to drink water."]
+      },
+      "variacoes": {
+        "pt": ["bebendo", "bebido"],
+        "en": ["drinking", "drunk"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "bebo",
+          "tu": "bebes",
+          "ele/ela": "bebe",
+          "nós": "bebemos",
+          "vós": "bebeis",
+          "eles/elas": "bebem"
+        },
+        "passado": {
+          "eu": "bebi",
+          "tu": "bebeste",
+          "ele/ela": "bebeu",
+          "nós": "bebemos",
+          "vós": "bebestes",
+          "eles/elas": "beberam"
+        },
+        "futuro": {
+          "eu": "beberei",
+          "tu": "beberás",
+          "ele/ela": "beberá",
+          "nós": "beberemos",
+          "vós": "bebereis",
+          "eles/elas": "beberão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "drink",
+          "you": "drink",
+          "he/she/it": "drinks",
+          "we": "drink",
+          "they": "drink"
+        },
+        "passado": {
+          "I": "drank",
+          "you": "drank",
+          "he/she/it": "drank",
+          "we": "drank",
+          "they": "drank"
+        },
+        "futuro": {
+          "I": "will drink",
+          "you": "will drink",
+          "he/she/it": "will drink",
+          "we": "will drink",
+          "they": "will drink"
+        }
+      }
+    },
+    {
+      "palavra_pt": "andar",
+      "palavra_en": "to walk",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu gosto de andar na praia."],
+        "en": ["I like to walk on the beach."]
+      },
+      "variacoes": {
+        "pt": ["andando", "andado"],
+        "en": ["walking", "walked"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ando",
+          "tu": "andas",
+          "ele/ela": "anda",
+          "nós": "andamos",
+          "vós": "andais",
+          "eles/elas": "andam"
+        },
+        "passado": {
+          "eu": "andei",
+          "tu": "andaste",
+          "ele/ela": "andou",
+          "nós": "andamos",
+          "vós": "andastes",
+          "eles/elas": "andaram"
+        },
+        "futuro": {
+          "eu": "andarei",
+          "tu": "andarás",
+          "ele/ela": "andará",
+          "nós": "andaremos",
+          "vós": "andareis",
+          "eles/elas": "andarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "walk",
+          "you": "walk",
+          "he/she/it": "walks",
+          "we": "walk",
+          "they": "walk"
+        },
+        "passado": {
+          "I": "walked",
+          "you": "walked",
+          "he/she/it": "walked",
+          "we": "walked",
+          "they": "walked"
+        },
+        "futuro": {
+          "I": "will walk",
+          "you": "will walk",
+          "he/she/it": "will walk",
+          "we": "will walk",
+          "they": "will walk"
+        }
+      }
+    },
+    {
+      "palavra_pt": "correr",
+      "palavra_en": "to run",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Ele gosta de correr no parque."],
+        "en": ["He likes to run in the park."]
+      },
+      "variacoes": {
+        "pt": ["correndo", "corrido"],
+        "en": ["running", "run"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "corro",
+          "tu": "corres",
+          "ele/ela": "corre",
+          "nós": "corremos",
+          "vós": "correis",
+          "eles/elas": "correm"
+        },
+        "passado": {
+          "eu": "corri",
+          "tu": "correste",
+          "ele/ela": "correu",
+          "nós": "corremos",
+          "vós": "correstes",
+          "eles/elas": "correram"
+        },
+        "futuro": {
+          "eu": "correrei",
+          "tu": "correrás",
+          "ele/ela": "correrá",
+          "nós": "correremos",
+          "vós": "correreis",
+          "eles/elas": "correrão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "run",
+          "you": "run",
+          "he/she/it": "runs",
+          "we": "run",
+          "they": "run"
+        },
+        "passado": {
+          "I": "ran",
+          "you": "ran",
+          "he/she/it": "ran",
+          "we": "ran",
+          "they": "ran"
+        },
+        "futuro": {
+          "I": "will run",
+          "you": "will run",
+          "he/she/it": "will run",
+          "we": "will run",
+          "they": "will run"
+        }
+      }
+    },
+    {
+      "palavra_pt": "dormir",
+      "palavra_en": "to sleep",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero dormir cedo hoje."],
+        "en": ["I want to sleep early today."]
+      },
+      "variacoes": {
+        "pt": ["dormindo", "dormido"],
+        "en": ["sleeping", "slept"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "durmo",
+          "tu": "dormes",
+          "ele/ela": "dorme",
+          "nós": "dormimos",
+          "vós": "dormis",
+          "eles/elas": "dormem"
+        },
+        "passado": {
+          "eu": "dormi",
+          "tu": "dormiste",
+          "ele/ela": "dormiu",
+          "nós": "dormimos",
+          "vós": "dormistes",
+          "eles/elas": "dormiram"
+        },
+        "futuro": {
+          "eu": "dormirei",
+          "tu": "dormirás",
+          "ele/ela": "dormirá",
+          "nós": "dormiremos",
+          "vós": "dormireis",
+          "eles/elas": "dormirão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "sleep",
+          "you": "sleep",
+          "he/she/it": "sleeps",
+          "we": "sleep",
+          "they": "sleep"
+        },
+        "passado": {
+          "I": "slept",
+          "you": "slept",
+          "he/she/it": "slept",
+          "we": "slept",
+          "they": "slept"
+        },
+        "futuro": {
+          "I": "will sleep",
+          "you": "will sleep",
+          "he/she/it": "will sleep",
+          "we": "will sleep",
+          "they": "will sleep"
+        }
+      }
+    },
+    {
+      "palavra_pt": "acordar",
+      "palavra_en": "to wake up",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu acordo cedo todos os dias."],
+        "en": ["I wake up early every day."]
+      },
+      "variacoes": {
+        "pt": ["acordando", "acordado"],
+        "en": ["waking up", "woken up"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "acordo",
+          "tu": "acordas",
+          "ele/ela": "acorda",
+          "nós": "acordamos",
+          "vós": "acordais",
+          "eles/elas": "acordam"
+        },
+        "passado": {
+          "eu": "acordei",
+          "tu": "acordaste",
+          "ele/ela": "acordou",
+          "nós": "acordamos",
+          "vós": "acordastes",
+          "eles/elas": "acordaram"
+        },
+        "futuro": {
+          "eu": "acordarei",
+          "tu": "acordarás",
+          "ele/ela": "acordará",
+          "nós": "acordaremos",
+          "vós": "acordareis",
+          "eles/elas": "acordarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "wake up",
+          "you": "wake up",
+          "he/she/it": "wakes up",
+          "we": "wake up",
+          "they": "wake up"
+        },
+        "passado": {
+          "I": "woke up",
+          "you": "woke up",
+          "he/she/it": "woke up",
+          "we": "woke up",
+          "they": "woke up"
+        },
+        "futuro": {
+          "I": "will wake up",
+          "you": "will wake up",
+          "he/she/it": "will wake up",
+          "we": "will wake up",
+          "they": "will wake up"
+        }
+      }
+    },
+    {
+      "palavra_pt": "trabalhar",
+      "palavra_en": "to work",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu trabalho em um escritório."],
+        "en": ["I work in an office."]
+      },
+      "variacoes": {
+        "pt": ["trabalhando", "trabalhado"],
+        "en": ["working", "worked"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "trabalho",
+          "tu": "trabalhas",
+          "ele/ela": "trabalha",
+          "nós": "trabalhamos",
+          "vós": "trabalhais",
+          "eles/elas": "trabalham"
+        },
+        "passado": {
+          "eu": "trabalhei",
+          "tu": "trabalhaste",
+          "ele/ela": "trabalhou",
+          "nós": "trabalhamos",
+          "vós": "trabalhastes",
+          "eles/elas": "trabalharam"
+        },
+        "futuro": {
+          "eu": "trabalharei",
+          "tu": "trabalharás",
+          "ele/ela": "trabalhará",
+          "nós": "trabalharemos",
+          "vós": "trabalhareis",
+          "eles/elas": "trabalharão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "work",
+          "you": "work",
+          "he/she/it": "works",
+          "we": "work",
+          "they": "work"
+        },
+        "passado": {
+          "I": "worked",
+          "you": "worked",
+          "he/she/it": "worked",
+          "we": "worked",
+          "they": "worked"
+        },
+        "futuro": {
+          "I": "will work",
+          "you": "will work",
+          "he/she/it": "will work",
+          "we": "will work",
+          "they": "will work"
+        }
+      }
+    },
+    {
+      "palavra_pt": "estudar",
+      "palavra_en": "to study",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu estudo à noite."],
+        "en": ["I study at night."]
+      },
+      "variacoes": {
+        "pt": ["estudando", "estudado"],
+        "en": ["studying", "studied"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "estudo",
+          "tu": "estudas",
+          "ele/ela": "estuda",
+          "nós": "estudamos",
+          "vós": "estudais",
+          "eles/elas": "estudam"
+        },
+        "passado": {
+          "eu": "estudei",
+          "tu": "estudaste",
+          "ele/ela": "estudou",
+          "nós": "estudamos",
+          "vós": "estudastes",
+          "eles/elas": "estudaram"
+        },
+        "futuro": {
+          "eu": "estudarei",
+          "tu": "estudarás",
+          "ele/ela": "estudará",
+          "nós": "estudaremos",
+          "vós": "estudareis",
+          "eles/elas": "estudarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "study",
+          "you": "study",
+          "he/she/it": "studies",
+          "we": "study",
+          "they": "study"
+        },
+        "passado": {
+          "I": "studied",
+          "you": "studied",
+          "he/she/it": "studied",
+          "we": "studied",
+          "they": "studied"
+        },
+        "futuro": {
+          "I": "will study",
+          "you": "will study",
+          "he/she/it": "will study",
+          "we": "will study",
+          "they": "will study"
+        }
+      }
+    },
+    {
+      "palavra_pt": "vermelho",
+      "palavra_en": "red",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "vermelhos",
+        "en": "red"
+      },
+      "exemplos": {
+        "pt": ["O carro é vermelho."],
+        "en": ["The car is red."]
+      },
+      "variacoes": {
+        "pt": ["vermelha", "vermelhas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "azul",
+      "palavra_en": "blue",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "azuis",
+        "en": "blue"
+      },
+      "exemplos": {
+        "pt": ["O céu está azul."],
+        "en": ["The sky is blue."]
+      },
+      "variacoes": {
+        "pt": ["azul", "azuis"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "verde",
+      "palavra_en": "green",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "verdes",
+        "en": "green"
+      },
+      "exemplos": {
+        "pt": ["A grama é verde."],
+        "en": ["The grass is green."]
+      },
+      "variacoes": {
+        "pt": ["verde", "verdes"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "amarelo",
+      "palavra_en": "yellow",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "amarelos",
+        "en": "yellow"
+      },
+      "exemplos": {
+        "pt": ["O sol é amarelo."],
+        "en": ["The sun is yellow."]
+      },
+      "variacoes": {
+        "pt": ["amarela", "amarelas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "um",
+      "palavra_en": "one",
+      "tipo": "numeral",
+      "genero": "masculino",
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu tenho um livro."],
+        "en": ["I have one book."]
+      },
+      "variacoes": {
+        "pt": ["uma"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "dois",
+      "palavra_en": "two",
+      "tipo": "numeral",
+      "genero": "masculino",
+      "plural": null,
+      "exemplos": {
+        "pt": ["Comprei dois pães."],
+        "en": ["I bought two breads."]
+      },
+      "variacoes": {
+        "pt": ["duas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "médico",
+      "palavra_en": "doctor",
+      "tipo": "substantivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "médicos",
+        "en": "doctors"
+      },
+      "exemplos": {
+        "pt": ["O médico me examinou."],
+        "en": ["The doctor examined me."]
+      },
+      "variacoes": {
+        "pt": ["médica", "médicas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "professor",
+      "palavra_en": "teacher",
+      "tipo": "substantivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "professores",
+        "en": "teachers"
+      },
+      "exemplos": {
+        "pt": ["O professor explica bem."],
+        "en": ["The teacher explains well."]
+      },
+      "variacoes": {
+        "pt": ["professora", "professoras"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "feliz",
+      "palavra_en": "happy",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "felizes",
+        "en": "happy"
+      },
+      "exemplos": {
+        "pt": ["Estou muito feliz hoje."],
+        "en": ["I am very happy today."]
+      },
+      "variacoes": {
+        "pt": ["feliz", "felizes"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "sempre",
+      "palavra_en": "always",
+      "tipo": "advérbio",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu sempre chego cedo."],
+        "en": ["I always arrive early."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+  
+    {
+      "palavra_pt": "ensinar",
+      "palavra_en": "to teach",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Ela ensina matemática na escola."],
+        "en": ["She teaches math at school."]
+      },
+      "variacoes": {
+        "pt": ["ensinando", "ensinado"],
+        "en": ["teaching", "taught"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ensino",
+          "tu": "ensinas",
+          "ele/ela": "ensina",
+          "nós": "ensinamos",
+          "vós": "ensinais",
+          "eles/elas": "ensinam"
+        },
+        "passado": {
+          "eu": "ensinei",
+          "tu": "ensinaste",
+          "ele/ela": "ensinou",
+          "nós": "ensinamos",
+          "vós": "ensinastes",
+          "eles/elas": "ensinaram"
+        },
+        "futuro": {
+          "eu": "ensinarei",
+          "tu": "ensinarás",
+          "ele/ela": "ensinará",
+          "nós": "ensinaremos",
+          "vós": "ensinareis",
+          "eles/elas": "ensinarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "teach",
+          "you": "teach",
+          "he/she/it": "teaches",
+          "we": "teach",
+          "they": "teach"
+        },
+        "passado": {
+          "I": "taught",
+          "you": "taught",
+          "he/she/it": "taught",
+          "we": "taught",
+          "they": "taught"
+        },
+        "futuro": {
+          "I": "will teach",
+          "you": "will teach",
+          "he/she/it": "will teach",
+          "we": "will teach",
+          "they": "will teach"
+        }
+      }
+    },
+    {
+      "palavra_pt": "aprender",
+      "palavra_en": "to learn",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero aprender inglês."],
+        "en": ["I want to learn English."]
+      },
+      "variacoes": {
+        "pt": ["aprendendo", "aprendido"],
+        "en": ["learning", "learned"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "aprendo",
+          "tu": "aprendes",
+          "ele/ela": "aprende",
+          "nós": "aprendemos",
+          "vós": "aprendeis",
+          "eles/elas": "aprendem"
+        },
+        "passado": {
+          "eu": "aprendi",
+          "tu": "aprendeste",
+          "ele/ela": "aprendeu",
+          "nós": "aprendemos",
+          "vós": "aprendestes",
+          "eles/elas": "aprenderam"
+        },
+        "futuro": {
+          "eu": "aprenderei",
+          "tu": "aprenderás",
+          "ele/ela": "aprenderá",
+          "nós": "aprenderemos",
+          "vós": "aprendereis",
+          "eles/elas": "aprenderão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "learn",
+          "you": "learn",
+          "he/she/it": "learns",
+          "we": "learn",
+          "they": "learn"
+        },
+        "passado": {
+          "I": "learned",
+          "you": "learned",
+          "he/she/it": "learned",
+          "we": "learned",
+          "they": "learned"
+        },
+        "futuro": {
+          "I": "will learn",
+          "you": "will learn",
+          "he/she/it": "will learn",
+          "we": "will learn",
+          "they": "will learn"
+        }
+      }
+    },
+    {
+      "palavra_pt": "falar",
+      "palavra_en": "to speak",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu falo português fluentemente."],
+        "en": ["I speak Portuguese fluently."]
+      },
+      "variacoes": {
+        "pt": ["falando", "falado"],
+        "en": ["speaking", "spoken"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "falo",
+          "tu": "falas",
+          "ele/ela": "fala",
+          "nós": "falamos",
+          "vós": "falais",
+          "eles/elas": "falam"
+        },
+        "passado": {
+          "eu": "falei",
+          "tu": "falaste",
+          "ele/ela": "falou",
+          "nós": "falamos",
+          "vós": "falastes",
+          "eles/elas": "falaram"
+        },
+        "futuro": {
+          "eu": "falarei",
+          "tu": "falarás",
+          "ele/ela": "falará",
+          "nós": "falaremos",
+          "vós": "falareis",
+          "eles/elas": "falarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "speak",
+          "you": "speak",
+          "he/she/it": "speaks",
+          "we": "speak",
+          "they": "speak"
+        },
+        "passado": {
+          "I": "spoke",
+          "you": "spoke",
+          "he/she/it": "spoke",
+          "we": "spoke",
+          "they": "spoke"
+        },
+        "futuro": {
+          "I": "will speak",
+          "you": "will speak",
+          "he/she/it": "will speak",
+          "we": "will speak",
+          "they": "will speak"
+        }
+      }
+    },
+    {
+      "palavra_pt": "ouvir",
+      "palavra_en": "to listen",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Gosto de ouvir música."],
+        "en": ["I like to listen to music."]
+      },
+      "variacoes": {
+        "pt": ["ouvindo", "ouvido"],
+        "en": ["listening", "listened"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ouço",
+          "tu": "ouves",
+          "ele/ela": "ouve",
+          "nós": "ouvimos",
+          "vós": "ouvis",
+          "eles/elas": "ouvem"
+        },
+        "passado": {
+          "eu": "ouvi",
+          "tu": "ouviste",
+          "ele/ela": "ouviu",
+          "nós": "ouvimos",
+          "vós": "ouvistes",
+          "eles/elas": "ouviram"
+        },
+        "futuro": {
+          "eu": "ouvirei",
+          "tu": "ouvirás",
+          "ele/ela": "ouvirá",
+          "nós": "ouviremos",
+          "vós": "ouvireis",
+          "eles/elas": "ouvirão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "listen",
+          "you": "listen",
+          "he/she/it": "listens",
+          "we": "listen",
+          "they": "listen"
+        },
+        "passado": {
+          "I": "listened",
+          "you": "listened",
+          "he/she/it": "listened",
+          "we": "listened",
+          "they": "listened"
+        },
+        "futuro": {
+          "I": "will listen",
+          "you": "will listen",
+          "he/she/it": "will listen",
+          "we": "will listen",
+          "they": "will listen"
+        }
+      }
+    },
+    {
+      "palavra_pt": "ver",
+      "palavra_en": "to see",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero ver o pôr do sol."],
+        "en": ["I want to see the sunset."]
+      },
+      "variacoes": {
+        "pt": ["vendo", "visto"],
+        "en": ["seeing", "seen"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "vejo",
+          "tu": "vês",
+          "ele/ela": "vê",
+          "nós": "vemos",
+          "vós": "vedes",
+          "eles/elas": "veem"
+        },
+        "passado": {
+          "eu": "vi",
+          "tu": "viste",
+          "ele/ela": "viu",
+          "nós": "vimos",
+          "vós": "vistes",
+          "eles/elas": "viram"
+        },
+        "futuro": {
+          "eu": "verei",
+          "tu": "verás",
+          "ele/ela": "verá",
+          "nós": "veremos",
+          "vós": "vereis",
+          "eles/elas": "verão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "see",
+          "you": "see",
+          "he/she/it": "sees",
+          "we": "see",
+          "they": "see"
+        },
+        "passado": {
+          "I": "saw",
+          "you": "saw",
+          "he/she/it": "saw",
+          "we": "saw",
+          "they": "saw"
+        },
+        "futuro": {
+          "I": "will see",
+          "you": "will see",
+          "he/she/it": "will see",
+          "we": "will see",
+          "they": "will see"
+        }
+      }
+    },
+    {
+      "palavra_pt": "olhar",
+      "palavra_en": "to look",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Olho para o céu todos os dias."],
+        "en": ["I look at the sky every day."]
+      },
+      "variacoes": {
+        "pt": ["olhando", "olhado"],
+        "en": ["looking", "looked"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "olho",
+          "tu": "olhas",
+          "ele/ela": "olha",
+          "nós": "olhamos",
+          "vós": "olhais",
+          "eles/elas": "olham"
+        },
+        "passado": {
+          "eu": "olhei",
+          "tu": "olhaste",
+          "ele/ela": "olhou",
+          "nós": "olhamos",
+          "vós": "olhastes",
+          "eles/elas": "olharam"
+        },
+        "futuro": {
+          "eu": "olharei",
+          "tu": "olharás",
+          "ele/ela": "olhará",
+          "nós": "olharemos",
+          "vós": "olhareis",
+          "eles/elas": "olharão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "look",
+          "you": "look",
+          "he/she/it": "looks",
+          "we": "look",
+          "they": "look"
+        },
+        "passado": {
+          "I": "looked",
+          "you": "looked",
+          "he/she/it": "looked",
+          "we": "looked",
+          "they": "looked"
+        },
+        "futuro": {
+          "I": "will look",
+          "you": "will look",
+          "he/she/it": "will look",
+          "we": "will look",
+          "they": "will look"
+        }
+      }
+    },
+    {
+      "palavra_pt": "sentir",
+      "palavra_en": "to feel",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu sinto o vento no rosto."],
+        "en": ["I feel the wind on my face."]
+      },
+      "variacoes": {
+        "pt": ["sentindo", "sentido"],
+        "en": ["feeling", "felt"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "sinto",
+          "tu": "sentes",
+          "ele/ela": "sente",
+          "nós": "sentimos",
+          "vós": "sentis",
+          "eles/elas": "sentem"
+        },
+        "passado": {
+          "eu": "senti",
+          "tu": "sentiste",
+          "ele/ela": "sentiu",
+          "nós": "sentimos",
+          "vós": "sentistes",
+          "eles/elas": "sentiram"
+        },
+        "futuro": {
+          "eu": "sentirei",
+          "tu": "sentirás",
+          "ele/ela": "sentirá",
+          "nós": "sentiremos",
+          "vós": "sentireis",
+          "eles/elas": "sentirão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "feel",
+          "you": "feel",
+          "he/she/it": "feels",
+          "we": "feel",
+          "they": "feel"
+        },
+        "passado": {
+          "I": "felt",
+          "you": "felt",
+          "he/she/it": "felt",
+          "we": "felt",
+          "they": "felt"
+        },
+        "futuro": {
+          "I": "will feel",
+          "you": "will feel",
+          "he/she/it": "will feel",
+          "we": "will feel",
+          "they": "will feel"
+        }
+      }
+    },
+    {
+      "palavra_pt": "pensar",
+      "palavra_en": "to think",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu penso em você todos os dias."],
+        "en": ["I think about you every day."]
+      },
+      "variacoes": {
+        "pt": ["pensando", "pensado"],
+        "en": ["thinking", "thought"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "penso",
+          "tu": "pensas",
+          "ele/ela": "pensa",
+          "nós": "pensamos",
+          "vós": "pensais",
+          "eles/elas": "pensam"
+        },
+        "passado": {
+          "eu": "pensei",
+          "tu": "pensaste",
+          "ele/ela": "pensou",
+          "nós": "pensamos",
+          "vós": "pensastes",
+          "eles/elas": "pensaram"
+        },
+        "futuro": {
+          "eu": "pensarei",
+          "tu": "pensarás",
+          "ele/ela": "pensará",
+          "nós": "pensaremos",
+          "vós": "pensareis",
+          "eles/elas": "pensarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "think",
+          "you": "think",
+          "he/she/it": "thinks",
+          "we": "think",
+          "they": "think"
+        },
+        "passado": {
+          "I": "thought",
+          "you": "thought",
+          "he/she/it": "thought",
+          "we": "thought",
+          "they": "thought"
+        },
+        "futuro": {
+          "I": "will think",
+          "you": "will think",
+          "he/she/it": "will think",
+          "we": "will think",
+          "they": "will think"
+        }
+      }
+    },
+    {
+      "palavra_pt": "amar",
+      "palavra_en": "to love",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu amo minha família."],
+        "en": ["I love my family."]
+      },
+      "variacoes": {
+        "pt": ["amando", "amado"],
+        "en": ["loving", "loved"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "amo",
+          "tu": "amas",
+          "ele/ela": "ama",
+          "nós": "amamos",
+          "vós": "amais",
+          "eles/elas": "amam"
+        },
+        "passado": {
+          "eu": "amei",
+          "tu": "amaste",
+          "ele/ela": "amou",
+          "nós": "amamos",
+          "vós": "amastes",
+          "eles/elas": "amaram"
+        },
+        "futuro": {
+          "eu": "amarei",
+          "tu": "amarás",
+          "ele/ela": "amará",
+          "nós": "amaremos",
+          "vós": "amareis",
+          "eles/elas": "amarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "love",
+          "you": "love",
+          "he/she/it": "loves",
+          "we": "love",
+          "they": "love"
+        },
+        "passado": {
+          "I": "loved",
+          "you": "loved",
+          "he/she/it": "loved",
+          "we": "loved",
+          "they": "loved"
+        },
+        "futuro": {
+          "I": "will love",
+          "you": "will love",
+          "he/she/it": "will love",
+          "we": "will love",
+          "they": "will love"
+        }
+      }
+    },
+    {
+      "palavra_pt": "odiar",
+      "palavra_en": "to hate",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu odeio acordar cedo."],
+        "en": ["I hate waking up early."]
+      },
+      "variacoes": {
+        "pt": ["odiando", "odiado"],
+        "en": ["hating", "hated"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "odeio",
+          "tu": "odeias",
+          "ele/ela": "odeia",
+          "nós": "odiamos",
+          "vós": "odiais",
+          "eles/elas": "odeiam"
+        },
+        "passado": {
+          "eu": "odiei",
+          "tu": "odiaste",
+          "ele/ela": "odiou",
+          "nós": "odiamos",
+          "vós": "odiastes",
+          "eles/elas": "odiaram"
+        },
+        "futuro": {
+          "eu": "odiarei",
+          "tu": "odiarás",
+          "ele/ela": "odiará",
+          "nós": "odiaremos",
+          "vós": "odiareis",
+          "eles/elas": "odiarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "hate",
+          "you": "hate",
+          "he/she/it": "hates",
+          "we": "hate",
+          "they": "hate"
+        },
+        "passado": {
+          "I": "hated",
+          "you": "hated",
+          "he/she/it": "hated",
+          "we": "hated",
+          "they": "hated"
+        },
+        "futuro": {
+          "I": "will hate",
+          "you": "will hate",
+          "he/she/it": "will hate",
+          "we": "will hate",
+          "they": "will hate"
+        }
+      }
+    },
+    {
+      "palavra_pt": "comprar",
+      "palavra_en": "to buy",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou comprar um carro novo."],
+        "en": ["I will buy a new car."]
+      },
+      "variacoes": {
+        "pt": ["comprando", "comprado"],
+        "en": ["buying", "bought"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "compro",
+          "tu": "compras",
+          "ele/ela": "compra",
+          "nós": "compramos",
+          "vós": "comprais",
+          "eles/elas": "compram"
+        },
+        "passado": {
+          "eu": "comprei",
+          "tu": "compraste",
+          "ele/ela": "comprou",
+          "nós": "compramos",
+          "vós": "comprastes",
+          "eles/elas": "compraram"
+        },
+        "futuro": {
+          "eu": "comprarei",
+          "tu": "comprarás",
+          "ele/ela": "comprará",
+          "nós": "compraremos",
+          "vós": "comprareis",
+          "eles/elas": "comprarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "buy",
+          "you": "buy",
+          "he/she/it": "buys",
+          "we": "buy",
+          "they": "buy"
+        },
+        "passado": {
+          "I": "bought",
+          "you": "bought",
+          "he/she/it": "bought",
+          "we": "bought",
+          "they": "bought"
+        },
+        "futuro": {
+          "I": "will buy",
+          "you": "will buy",
+          "he/she/it": "will buy",
+          "we": "will buy",
+          "they": "will buy"
+        }
+      }
+    },
+    {
+      "palavra_pt": "vender",
+      "palavra_en": "to sell",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Ele vende frutas no mercado."],
+        "en": ["He sells fruits at the market."]
+      },
+      "variacoes": {
+        "pt": ["vendendo", "vendido"],
+        "en": ["selling", "sold"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "vendo",
+          "tu": "vendes",
+          "ele/ela": "vende",
+          "nós": "vendemos",
+          "vós": "vendeis",
+          "eles/elas": "vendem"
+        },
+        "passado": {
+          "eu": "vendi",
+          "tu": "vendeste",
+          "ele/ela": "vendeu",
+          "nós": "vendemos",
+          "vós": "vendestes",
+          "eles/elas": "venderam"
+        },
+        "futuro": {
+          "eu": "venderei",
+          "tu": "venderás",
+          "ele/ela": "venderá",
+          "nós": "venderemos",
+          "vós": "vendereis",
+          "eles/elas": "venderão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "sell",
+          "you": "sell",
+          "he/she/it": "sells",
+          "we": "sell",
+          "they": "sell"
+        },
+        "passado": {
+          "I": "sold",
+          "you": "sold",
+          "he/she/it": "sold",
+          "we": "sold",
+          "they": "sold"
+        },
+        "futuro": {
+          "I": "will sell",
+          "you": "will sell",
+          "he/she/it": "will sell",
+          "we": "will sell",
+          "they": "will sell"
+        }
+      }
+    },
+    {
+      "palavra_pt": "abrir",
+      "palavra_en": "to open",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou abrir a janela."],
+        "en": ["I will open the window."]
+      },
+      "variacoes": {
+        "pt": ["abrindo", "aberto"],
+        "en": ["opening", "opened"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "abro",
+          "tu": "abres",
+          "ele/ela": "abre",
+          "nós": "abrimos",
+          "vós": "abris",
+          "eles/elas": "abrem"
+        },
+        "passado": {
+          "eu": "abri",
+          "tu": "abriste",
+          "ele/ela": "abriu",
+          "nós": "abrimos",
+          "vós": "abristes",
+          "eles/elas": "abriram"
+        },
+        "futuro": {
+          "eu": "abrirei",
+          "tu": "abrirás",
+          "ele/ela": "abrirá",
+          "nós": "abriremos",
+          "vós": "abrireis",
+          "eles/elas": "abrirão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "open",
+          "you": "open",
+          "he/she/it": "opens",
+          "we": "open",
+          "they": "open"
+        },
+        "passado": {
+          "I": "opened",
+          "you": "opened",
+          "he/she/it": "opened",
+          "we": "opened",
+          "they": "opened"
+        },
+        "futuro": {
+          "I": "will open",
+          "you": "will open",
+          "he/she/it": "will open",
+          "we": "will open",
+          "they": "will open"
+        }
+      }
+    },
+    {
+      "palavra_pt": "fechar",
+      "palavra_en": "to close",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou fechar a porta."],
+        "en": ["I will close the door."]
+      },
+      "variacoes": {
+        "pt": ["fechando", "fechado"],
+        "en": ["closing", "closed"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "fecho",
+          "tu": "fechas",
+          "ele/ela": "fecha",
+          "nós": "fechamos",
+          "vós": "fechais",
+          "eles/elas": "fecham"
+        },
+        "passado": {
+          "eu": "fechei",
+          "tu": "fechaste",
+          "ele/ela": "fechou",
+          "nós": "fechamos",
+          "vós": "fechastes",
+          "eles/elas": "fecharam"
+        },
+        "futuro": {
+          "eu": "fecharei",
+          "tu": "fecharás",
+          "ele/ela": "fechará",
+          "nós": "fecharemos",
+          "vós": "fechareis",
+          "eles/elas": "fecharão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "close",
+          "you": "close",
+          "he/she/it": "closes",
+          "we": "close",
+          "they": "close"
+        },
+        "passado": {
+          "I": "closed",
+          "you": "closed",
+          "he/she/it": "closed",
+          "we": "closed",
+          "they": "closed"
+        },
+        "futuro": {
+          "I": "will close",
+          "you": "will close",
+          "he/she/it": "will close",
+          "we": "will close",
+          "they": "will close"
+        }
+      }
+    },
+    {
+      "palavra_pt": "ligar",
+      "palavra_en": "to turn on",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou ligar a televisão."],
+        "en": ["I will turn on the television."]
+      },
+      "variacoes": {
+        "pt": ["ligando", "ligado"],
+        "en": ["turning on", "turned on"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ligo",
+          "tu": "ligas",
+          "ele/ela": "liga",
+          "nós": "ligamos",
+          "vós": "ligais",
+          "eles/elas": "ligam"
+        },
+        "passado": {
+          "eu": "liguei",
+          "tu": "ligaste",
+          "ele/ela": "ligou",
+          "nós": "ligamos",
+          "vós": "ligastes",
+          "eles/elas": "ligaram"
+        },
+        "futuro": {
+          "eu": "ligarei",
+          "tu": "ligarás",
+          "ele/ela": "ligará",
+          "nós": "ligaremos",
+          "vós": "ligareis",
+          "eles/elas": "ligarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "turn on",
+          "you": "turn on",
+          "he/she/it": "turns on",
+          "we": "turn on",
+          "they": "turn on"
+        },
+        "passado": {
+          "I": "turned on",
+          "you": "turned on",
+          "he/she/it": "turned on",
+          "we": "turned on",
+          "they": "turned on"
+        },
+        "futuro": {
+          "I": "will turn on",
+          "you": "will turn on",
+          "he/she/it": "will turn on",
+          "we": "will turn on",
+          "they": "will turn on"
+        }
+      }
+    },
+    {
+      "palavra_pt": "desligar",
+      "palavra_en": "to turn off",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou desligar a luz."],
+        "en": ["I will turn off the light."]
+      },
+      "variacoes": {
+        "pt": ["desligando", "desligado"],
+        "en": ["turning off", "turned off"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "desligo",
+          "tu": "desligas",
+          "ele/ela": "desliga",
+          "nós": "desligamos",
+          "vós": "desligais",
+          "eles/elas": "desligam"
+        },
+        "passado": {
+          "eu": "desliguei",
+          "tu": "desligaste",
+          "ele/ela": "desligou",
+          "nós": "desligamos",
+          "vós": "desligastes",
+          "eles/elas": "desligaram"
+        },
+        "futuro": {
+          "eu": "desligarei",
+          "tu": "desligarás",
+          "ele/ela": "desligará",
+          "nós": "desligaremos",
+          "vós": "desligareis",
+          "eles/elas": "desligarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "turn off",
+          "you": "turn off",
+          "he/she/it": "turns off",
+          "we": "turn off",
+          "they": "turn off"
+        },
+        "passado": {
+          "I": "turned off",
+          "you": "turned off",
+          "he/she/it": "turned off",
+          "we": "turned off",
+          "they": "turned off"
+        },
+        "futuro": {
+          "I": "will turn off",
+          "you": "will turn off",
+          "he/she/it": "will turn off",
+          "we": "will turn off",
+          "they": "will turn off"
+        }
+      }
+    },
+    {
+      "palavra_pt": "começar",
+      "palavra_en": "to start",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vamos começar o trabalho agora."],
+        "en": ["We will start the work now."]
+      },
+      "variacoes": {
+        "pt": ["começando", "começado"],
+        "en": ["starting", "started"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "começo",
+          "tu": "começas",
+          "ele/ela": "começa",
+          "nós": "começamos",
+          "vós": "começais",
+          "eles/elas": "começam"
+        },
+        "passado": {
+          "eu": "comecei",
+          "tu": "começaste",
+          "ele/ela": "começou",
+          "nós": "começamos",
+          "vós": "começastes",
+          "eles/elas": "começaram"
+        },
+        "futuro": {
+          "eu": "começarei",
+          "tu": "começarás",
+          "ele/ela": "começará",
+          "nós": "começaremos",
+          "vós": "começareis",
+          "eles/elas": "começarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "start",
+          "you": "start",
+          "he/she/it": "starts",
+          "we": "start",
+          "they": "start"
+        },
+        "passado": {
+          "I": "started",
+          "you": "started",
+          "he/she/it": "started",
+          "we": "started",
+          "they": "started"
+        },
+        "futuro": {
+          "I": "will start",
+          "you": "will start",
+          "he/she/it": "will start",
+          "we": "will start",
+          "they": "will start"
+        }
+      }
+    },
+    {
+      "palavra_pt": "terminar",
+      "palavra_en": "to finish",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero terminar este livro hoje."],
+        "en": ["I want to finish this book today."]
+      },
+      "variacoes": {
+        "pt": ["terminando", "terminado"],
+        "en": ["finishing", "finished"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "termino",
+          "tu": "terminas",
+          "ele/ela": "termina",
+          "nós": "terminamos",
+          "vós": "terminais",
+          "eles/elas": "terminam"
+        },
+        "passado": {
+          "eu": "terminei",
+          "tu": "terminaste",
+          "ele/ela": "terminou",
+          "nós": "terminamos",
+          "vós": "terminastes",
+          "eles/elas": "terminaram"
+        },
+        "futuro": {
+          "eu": "terminarei",
+          "tu": "terminarás",
+          "ele/ela": "terminará",
+          "nós": "terminaremos",
+          "vós": "terminareis",
+          "eles/elas": "terminarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "finish",
+          "you": "finish",
+          "he/she/it": "finishes",
+          "we": "finish",
+          "they": "finish"
+        },
+        "passado": {
+          "I": "finished",
+          "you": "finished",
+          "he/she/it": "finished",
+          "we": "finished",
+          "they": "finished"
+        },
+        "futuro": {
+          "I": "will finish",
+          "you": "will finish",
+          "he/she/it": "will finish",
+          "we": "will finish",
+          "they": "will finish"
+        }
+      }
+    },
+    {
+      "palavra_pt": "ajudar",
+      "palavra_en": "to help",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou ajudar meu amigo."],
+        "en": ["I will help my friend."]
+      },
+      "variacoes": {
+        "pt": ["ajudando", "ajudado"],
+        "en": ["helping", "helped"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ajudo",
+          "tu": "ajudas",
+          "ele/ela": "ajuda",
+          "nós": "ajudamos",
+          "vós": "ajudais",
+          "eles/elas": "ajudam"
+        },
+        "passado": {
+          "eu": "ajudei",
+          "tu": "ajudaste",
+          "ele/ela": "ajudou",
+          "nós": "ajudamos",
+          "vós": "ajudastes",
+          "eles/elas": "ajudaram"
+        },
+        "futuro": {
+          "eu": "ajudarei",
+          "tu": "ajudarás",
+          "ele/ela": "ajudará",
+          "nós": "ajudaremos",
+          "vós": "ajudareis",
+          "eles/elas": "ajudarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "help",
+          "you": "help",
+          "he/she/it": "helps",
+          "we": "help",
+          "they": "help"
+        },
+        "passado": {
+          "I": "helped",
+          "you": "helped",
+          "he/she/it": "helped",
+          "we": "helped",
+          "they": "helped"
+        },
+        "futuro": {
+          "I": "will help",
+          "you": "will help",
+          "he/she/it": "will help",
+          "we": "will help",
+          "they": "will help"
+        }
+      }
+    },
+    {
+      "palavra_pt": "brincar",
+      "palavra_en": "to play",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["As crianças brincam no parque."],
+        "en": ["The children play in the park."]
+      },
+      "variacoes": {
+        "pt": ["brincando", "brincado"],
+        "en": ["playing", "played"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "brinco",
+          "tu": "brincas",
+          "ele/ela": "brinca",
+          "nós": "brincamos",
+          "vós": "brincais",
+          "eles/elas": "brincam"
+        },
+        "passado": {
+          "eu": "brinquei",
+          "tu": "brincaste",
+          "ele/ela": "brincou",
+          "nós": "brincamos",
+          "vós": "brincastes",
+          "eles/elas": "brincaram"
+        },
+        "futuro": {
+          "eu": "brincarei",
+          "tu": "brincarás",
+          "ele/ela": "brincará",
+          "nós": "brincaremos",
+          "vós": "brincareis",
+          "eles/elas": "brincarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "play",
+          "you": "play",
+          "he/she/it": "plays",
+          "we": "play",
+          "they": "play"
+        },
+        "passado": {
+          "I": "played",
+          "you": "played",
+          "he/she/it": "played",
+          "we": "played",
+          "they": "played"
+        },
+        "futuro": {
+          "I": "will play",
+          "you": "will play",
+          "he/she/it": "will play",
+          "we": "will play",
+          "they": "will play"
+        }
+      }
+    },
+    {
+      "palavra_pt": "esperar",
+      "palavra_en": "to wait",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou esperar o ônibus."],
+        "en": ["I will wait for the bus."]
+      },
+      "variacoes": {
+        "pt": ["esperando", "esperado"],
+        "en": ["waiting", "waited"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "espero",
+          "tu": "esperas",
+          "ele/ela": "espera",
+          "nós": "esperamos",
+          "vós": "esperais",
+          "eles/elas": "esperam"
+        },
+        "passado": {
+          "eu": "esperei",
+          "tu": "esperaste",
+          "ele/ela": "esperou",
+          "nós": "esperamos",
+          "vós": "esperastes",
+          "eles/elas": "esperaram"
+        },
+        "futuro": {
+          "eu": "esperarei",
+          "tu": "esperarás",
+          "ele/ela": "esperará",
+          "nós": "esperaremos",
+          "vós": "esperareis",
+          "eles/elas": "esperarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "wait",
+          "you": "wait",
+          "he/she/it": "waits",
+          "we": "wait",
+          "they": "wait"
+        },
+        "passado": {
+          "I": "waited",
+          "you": "waited",
+          "he/she/it": "waited",
+          "we": "waited",
+          "they": "waited"
+        },
+        "futuro": {
+          "I": "will wait",
+          "you": "will wait",
+          "he/she/it": "will wait",
+          "we": "will wait",
+          "they": "will wait"
+        }
+      }
+    },
+    {
+      "palavra_pt": "precisar",
+      "palavra_en": "to need",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu preciso de ajuda."],
+        "en": ["I need help."]
+      },
+      "variacoes": {
+        "pt": ["precisando", "precisado"],
+        "en": ["needing", "needed"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "preciso",
+          "tu": "precisas",
+          "ele/ela": "precisa",
+          "nós": "precisamos",
+          "vós": "precisais",
+          "eles/elas": "precisam"
+        },
+        "passado": {
+          "eu": "precisei",
+          "tu": "precisaste",
+          "ele/ela": "precisou",
+          "nós": "precisamos",
+          "vós": "precisastes",
+          "eles/elas": "precisaram"
+        },
+        "futuro": {
+          "eu": "precisarei",
+          "tu": "precisarás",
+          "ele/ela": "precisará",
+          "nós": "precisaremos",
+          "vós": "precisareis",
+          "eles/elas": "precisarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "need",
+          "you": "need",
+          "he/she/it": "needs",
+          "we": "need",
+          "they": "need"
+        },
+        "passado": {
+          "I": "needed",
+          "you": "needed",
+          "he/she/it": "needed",
+          "we": "needed",
+          "they": "needed"
+        },
+        "futuro": {
+          "I": "will need",
+          "you": "will need",
+          "he/she/it": "will need",
+          "we": "will need",
+          "they": "will need"
+        }
+      }
+    },
+    {
+      "palavra_pt": "querer",
+      "palavra_en": "to want",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero um café agora."],
+        "en": ["I want a coffee now."]
+      },
+      "variacoes": {
+        "pt": ["querendo", "querido"],
+        "en": ["wanting", "wanted"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "quero",
+          "tu": "queres",
+          "ele/ela": "quer",
+          "nós": "queremos",
+          "vós": "quereis",
+          "eles/elas": "querem"
+        },
+        "passado": {
+          "eu": "quis",
+          "tu": "quiseste",
+          "ele/ela": "quis",
+          "nós": "quisemos",
+          "vós": "quisestes",
+          "eles/elas": "quiseram"
+        },
+        "futuro": {
+          "eu": "quererei",
+          "tu": "quererás",
+          "ele/ela": "quererá",
+          "nós": "quereremos",
+          "vós": "querereis",
+          "eles/elas": "quererão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "want",
+          "you": "want",
+          "he/she/it": "wants",
+          "we": "want",
+          "they": "want"
+        },
+        "passado": {
+          "I": "wanted",
+          "you": "wanted",
+          "he/she/it": "wanted",
+          "we": "wanted",
+          "they": "wanted"
+        },
+        "futuro": {
+          "I": "will want",
+          "you": "will want",
+          "he/she/it": "will want",
+          "we": "will want",
+          "they": "will want"
+        }
+      }
+    },
+    {
+      "palavra_pt": "achar",
+      "palavra_en": "to find",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Vou achar minhas chaves."],
+        "en": ["I will find my keys."]
+      },
+      "variacoes": {
+        "pt": ["achando", "achado"],
+        "en": ["finding", "found"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "acho",
+          "tu": "achas",
+          "ele/ela": "acha",
+          "nós": "achamos",
+          "vós": "achais",
+          "eles/elas": "acham"
+        },
+        "passado": {
+          "eu": "achei",
+          "tu": "achaste",
+          "ele/ela": "achou",
+          "nós": "achamos",
+          "vós": "achastes",
+          "eles/elas": "acharam"
+        },
+        "futuro": {
+          "eu": "acharei",
+          "tu": "acharás",
+          "ele/ela": "achará",
+          "nós": "acharemos",
+          "vós": "achareis",
+          "eles/elas": "acharão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "find",
+          "you": "find",
+          "he/she/it": "finds",
+          "we": "find",
+          "they": "find"
+        },
+        "passado": {
+          "I": "found",
+          "you": "found",
+          "he/she/it": "found",
+          "we": "found",
+          "they": "found"
+        },
+        "futuro": {
+          "I": "will find",
+          "you": "will find",
+          "he/she/it": "will find",
+          "we": "will find",
+          "they": "will find"
+        }
+      }
+    },
+    {
+      "palavra_pt": "perder",
+      "palavra_en": "to lose",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Não quero perder o jogo."],
+        "en": ["I don’t want to lose the game."]
+      },
+      "variacoes": {
+        "pt": ["perdendo", "perdido"],
+        "en": ["losing", "lost"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "perco",
+          "tu": "perdes",
+          "ele/ela": "perde",
+          "nós": "perdemos",
+          "vós": "perdeis",
+          "eles/elas": "perdem"
+        },
+        "passado": {
+          "eu": "perdi",
+          "tu": "perdeste",
+          "ele/ela": "perdeu",
+          "nós": "perdemos",
+          "vós": "perdestes",
+          "eles/elas": "perderam"
+        },
+        "futuro": {
+          "eu": "perderei",
+          "tu": "perderás",
+          "ele/ela": "perderá",
+          "nós": "perderemos",
+          "vós": "perdereis",
+          "eles/elas": "perderão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "lose",
+          "you": "lose",
+          "he/she/it": "loses",
+          "we": "lose",
+          "they": "lose"
+        },
+        "passado": {
+          "I": "lost",
+          "you": "lost",
+          "he/she/it": "lost",
+          "we": "lost",
+          "they": "lost"
+        },
+        "futuro": {
+          "I": "will lose",
+          "you": "will lose",
+          "he/she/it": "will lose",
+          "we": "will lose",
+          "they": "will lose"
+        }
+      }
+    },
+    {
+      "palavra_pt": "ganhar",
+      "palavra_en": "to win",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero ganhar a corrida."],
+        "en": ["I want to win the race."]
+      },
+      "variacoes": {
+        "pt": ["ganhando", "ganho"],
+        "en": ["winning", "won"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "ganho",
+          "tu": "ganhas",
+          "ele/ela": "ganha",
+          "nós": "ganhamos",
+          "vós": "ganhais",
+          "eles/elas": "ganham"
+        },
+        "passado": {
+          "eu": "ganhei",
+          "tu": "ganhaste",
+          "ele/ela": "ganhou",
+          "nós": "ganhamos",
+          "vós": "ganhastes",
+          "eles/elas": "ganharam"
+        },
+        "futuro": {
+          "eu": "ganharei",
+          "tu": "ganharás",
+          "ele/ela": "ganhará",
+          "nós": "ganharemos",
+          "vós": "ganhareis",
+          "eles/elas": "ganharão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "win",
+          "you": "win",
+          "he/she/it": "wins",
+          "we": "win",
+          "they": "win"
+        },
+        "passado": {
+          "I": "won",
+          "you": "won",
+          "he/she/it": "won",
+          "we": "won",
+          "they": "won"
+        },
+        "futuro": {
+          "I": "will win",
+          "you": "will win",
+          "he/she/it": "will win",
+          "we": "will win",
+          "they": "will win"
+        }
+      }
+    },
+    {
+      "palavra_pt": "dirigir",
+      "palavra_en": "to drive",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu dirijo para o trabalho."],
+        "en": ["I drive to work."]
+      },
+      "variacoes": {
+        "pt": ["dirigindo", "dirigido"],
+        "en": ["driving", "driven"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "dirijo",
+          "tu": "diriges",
+          "ele/ela": "dirige",
+          "nós": "dirigimos",
+          "vós": "dirigis",
+          "eles/elas": "dirigem"
+        },
+        "passado": {
+          "eu": "dirigi",
+          "tu": "dirigiste",
+          "ele/ela": "dirigiu",
+          "nós": "dirigimos",
+          "vós": "dirigistes",
+          "eles/elas": "dirigiram"
+        },
+        "futuro": {
+          "eu": "dirigirei",
+          "tu": "dirigirás",
+          "ele/ela": "dirigirá",
+          "nós": "dirigiremos",
+          "vós": "dirigireis",
+          "eles/elas": "dirigirão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "drive",
+          "you": "drive",
+          "he/she/it": "drives",
+          "we": "drive",
+          "they": "drive"
+        },
+        "passado": {
+          "I": "drove",
+          "you": "drove",
+          "he/she/it": "drove",
+          "we": "drove",
+          "they": "drove"
+        },
+        "futuro": {
+          "I": "will drive",
+          "you": "will drive",
+          "he/she/it": "will drive",
+          "we": "will drive",
+          "they": "will drive"
+        }
+      }
+    },
+    {
+      "palavra_pt": "viajar",
+      "palavra_en": "to travel",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Quero viajar para o Brasil."],
+        "en": ["I want to travel to Brazil."]
+      },
+      "variacoes": {
+        "pt": ["viajando", "viajado"],
+        "en": ["traveling", "traveled"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "viajo",
+          "tu": "viajas",
+          "ele/ela": "viaja",
+          "nós": "viajamos",
+          "vós": "viajais",
+          "eles/elas": "viajam"
+        },
+        "passado": {
+          "eu": "viajei",
+          "tu": "viajaste",
+          "ele/ela": "viajou",
+          "nós": "viajamos",
+          "vós": "viajastes",
+          "eles/elas": "viajaram"
+        },
+        "futuro": {
+          "eu": "viajarei",
+          "tu": "viajarás",
+          "ele/ela": "viajará",
+          "nós": "viajaremos",
+          "vós": "viajareis",
+          "eles/elas": "viajarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "travel",
+          "you": "travel",
+          "he/she/it": "travels",
+          "we": "travel",
+          "they": "travel"
+        },
+        "passado": {
+          "I": "traveled",
+          "you": "traveled",
+          "he/she/it": "traveled",
+          "we": "traveled",
+          "they": "traveled"
+        },
+        "futuro": {
+          "I": "will travel",
+          "you": "will travel",
+          "he/she/it": "will travel",
+          "we": "will travel",
+          "they": "will travel"
+        }
+      }
+    },
+    {
+      "palavra_pt": "morar",
+      "palavra_en": "to live",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu moro em uma casa grande."],
+        "en": ["I live in a big house."]
+      },
+      "variacoes": {
+        "pt": ["morando", "morado"],
+        "en": ["living", "lived"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "moro",
+          "tu": "moras",
+          "ele/ela": "mora",
+          "nós": "moramos",
+          "vós": "morais",
+          "eles/elas": "moram"
+        },
+        "passado": {
+          "eu": "morei",
+          "tu": "moraste",
+          "ele/ela": "morou",
+          "nós": "moramos",
+          "vós": "morastes",
+          "eles/elas": "moraram"
+        },
+        "futuro": {
+          "eu": "morarei",
+          "tu": "morarás",
+          "ele/ela": "morará",
+          "nós": "moraremos",
+          "vós": "morareis",
+          "eles/elas": "morarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "live",
+          "you": "live",
+          "he/she/it": "lives",
+          "we": "live",
+          "they": "live"
+        },
+        "passado": {
+          "I": "lived",
+          "you": "lived",
+          "he/she/it": "lived",
+          "we": "lived",
+          "they": "lived"
+        },
+        "futuro": {
+          "I": "will live",
+          "you": "will live",
+          "he/she/it": "will live",
+          "we": "will live",
+          "they": "will live"
+        }
+      }
+    },
+    {
+      "palavra_pt": "morrer",
+      "palavra_en": "to die",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["As plantas morrem sem água."],
+        "en": ["The plants die without water."]
+      },
+      "variacoes": {
+        "pt": ["morrendo", "morto"],
+        "en": ["dying", "died"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "morro",
+          "tu": "morres",
+          "ele/ela": "morre",
+          "nós": "morremos",
+          "vós": "morreis",
+          "eles/elas": "morrem"
+        },
+        "passado": {
+          "eu": "morri",
+          "tu": "morrestes",
+          "ele/ela": "morreu",
+          "nós": "morremos",
+          "vós": "morrestes",
+          "eles/elas": "morreram"
+        },
+        "futuro": {
+          "eu": "morrerei",
+          "tu": "morrerás",
+          "ele/ela": "morrerá",
+          "nós": "morreremos",
+          "vós": "morrereis",
+          "eles/elas": "morrerão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "die",
+          "you": "die",
+          "he/she/it": "dies",
+          "we": "die",
+          "they": "die"
+        },
+        "passado": {
+          "I": "died",
+          "you": "died",
+          "he/she/it": "died",
+          "we": "died",
+          "they": "died"
+        },
+        "futuro": {
+          "I": "will die",
+          "you": "will die",
+          "he/she/it": "will die",
+          "we": "will die",
+          "they": "will die"
+        }
+      }
+    },
+    {
+      "palavra_pt": "nascer",
+      "palavra_en": "to be born",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Eu nasci em 1990."],
+        "en": ["I was born in 1990."]
+      },
+      "variacoes": {
+        "pt": ["nascendo", "nascido"],
+        "en": ["being born", "born"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "nasço",
+          "tu": "nasces",
+          "ele/ela": "nasce",
+          "nós": "nascemos",
+          "vós": "nasceis",
+          "eles/elas": "nascem"
+        },
+        "passado": {
+          "eu": "nasci",
+          "tu": "nasceste",
+          "ele/ela": "nasceu",
+          "nós": "nascemos",
+          "vós": "nascestes",
+          "eles/elas": "nasceram"
+        },
+        "futuro": {
+          "eu": "nascerei",
+          "tu": "nascerás",
+          "ele/ela": "nascerá",
+          "nós": "nasceremos",
+          "vós": "nascereis",
+          "eles/elas": "nascerão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "am born",
+          "you": "are born",
+          "he/she/it": "is born",
+          "we": "are born",
+          "they": "are born"
+        },
+        "passado": {
+          "I": "was born",
+          "you": "were born",
+          "he/she/it": "was born",
+          "we": "were born",
+          "they": "were born"
+        },
+        "futuro": {
+          "I": "will be born",
+          "you": "will be born",
+          "he/she/it": "will be born",
+          "we": "will be born",
+          "they": "will be born"
+        }
+      }
+    },
+    {
+      "palavra_pt": "chorar",
+      "palavra_en": "to cry",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["O bebê chora muito."],
+        "en": ["The baby cries a lot."]
+      },
+      "variacoes": {
+        "pt": ["chorando", "chorado"],
+        "en": ["crying", "cried"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "choro",
+          "tu": "choras",
+          "ele/ela": "chora",
+          "nós": "choramos",
+          "vós": "chorais",
+          "eles/elas": "choram"
+        },
+        "passado": {
+          "eu": "chorei",
+          "tu": "choraste",
+          "ele/ela": "chorou",
+          "nós": "choramos",
+          "vós": "chorastes",
+          "eles/elas": "choraram"
+        },
+        "futuro": {
+          "eu": "chorarei",
+          "tu": "chorarás",
+          "ele/ela": "chorará",
+          "nós": "choraremos",
+          "vós": "chorareis",
+          "eles/elas": "chorarão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "cry",
+          "you": "cry",
+          "he/she/it": "cries",
+          "we": "cry",
+          "they": "cry"
+        },
+        "passado": {
+          "I": "cried",
+          "you": "cried",
+          "he/she/it": "cried",
+          "we": "cried",
+          "they": "cried"
+        },
+        "futuro": {
+          "I": "will cry",
+          "you": "will cry",
+          "he/she/it": "will cry",
+          "we": "will cry",
+          "they": "will cry"
+        }
+      }
+    },
+    {
+      "palavra_pt": "rir",
+      "palavra_en": "to laugh",
+      "tipo": "verbo",
+      "genero": null,
+      "plural": null,
+      "exemplos": {
+        "pt": ["Nós rimos muito ontem."],
+        "en": ["We laughed a lot yesterday."]
+      },
+      "variacoes": {
+        "pt": ["rindo", "rido"],
+        "en": ["laughing", "laughed"]
+      },
+      "conjugacao_pt": {
+        "presente": {
+          "eu": "rio",
+          "tu": "ris",
+          "ele/ela": "ri",
+          "nós": "rimos",
+          "vós": "rides",
+          "eles/elas": "riem"
+        },
+        "passado": {
+          "eu": "ri",
+          "tu": "riste",
+          "ele/ela": "riu",
+          "nós": "rimos",
+          "vós": "ristes",
+          "eles/elas": "riram"
+        },
+        "futuro": {
+          "eu": "rirei",
+          "tu": "rirás",
+          "ele/ela": "rirá",
+          "nós": "riremos",
+          "vós": "rireis",
+          "eles/elas": "rirão"
+        }
+      },
+      "conjugacao_en": {
+        "presente": {
+          "I": "laugh",
+          "you": "laugh",
+          "he/she/it": "laughs",
+          "we": "laugh",
+          "they": "laugh"
+        },
+        "passado": {
+          "I": "laughed",
+          "you": "laughed",
+          "he/she/it": "laughed",
+          "we": "laughed",
+          "they": "laughed"
+        },
+        "futuro": {
+          "I": "will laugh",
+          "you": "will laugh",
+          "he/she/it": "will laugh",
+          "we": "will laugh",
+          "they": "will laugh"
+        }
+      }
+    },
+    {
+      "palavra_pt": "verbo",
+      "palavra_en": "verb",
+      "tipo": "substantivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "verbos",
+        "en": "verbs"
+      },
+      "exemplos": {
+        "pt": ["‘Falar’ é um verbo."],
+        "en": ["‘Speak’ is a verb."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "cor",
+      "palavra_en": "color",
+      "tipo": "substantivo",
+      "genero": "feminino",
+      "plural": {
+        "pt": "cores",
+        "en": "colors"
+      },
+      "exemplos": {
+        "pt": ["O arco-íris tem muitas cores."],
+        "en": ["The rainbow has many colors."]
+      },
+      "variacoes": {
+        "pt": [],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "laranja",
+      "palavra_en": "orange",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "laranjas",
+        "en": "orange"
+      },
+      "exemplos": {
+        "pt": ["A parede é laranja."],
+        "en": ["The wall is orange."]
+      },
+      "variacoes": {
+        "pt": ["laranja", "laranjas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "preto",
+      "palavra_en": "black",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "pretos",
+        "en": "black"
+      },
+      "exemplos": {
+        "pt": ["O gato é preto."],
+        "en": ["The cat is black."]
+      },
+      "variacoes": {
+        "pt": ["preta", "pretas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "branco",
+      "palavra_en": "white",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "brancos",
+        "en": "white"
+      },
+      "exemplos": {
+        "pt": ["A neve é branca."],
+        "en": ["The snow is white."]
+      },
+      "variacoes": {
+        "pt": ["branca", "brancas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+      "palavra_pt": "cinza",
+      "palavra_en": "gray",
+      "tipo": "adjetivo",
+      "genero": "masculino",
+      "plural": {
+        "pt": "cinzas",
+        "en": "gray"
+      },
+      "exemplos": {
+        "pt": ["O céu está cinza."],
+        "en": ["The sky is gray."]
+      },
+      "variacoes": {
+        "pt": ["cinza", "cinzas"],
+        "en": []
+      },
+      "conjugacao_pt": null,
+      "conjugacao_en": null
+    },
+    {
+        "palavra_pt": "rosa",
+        "palavra_en": "pink",
+        "tipo": "adjetivo",
+        "genero": "masculino",
+        "plural": {
+          "pt": "rosas",
+          "en": "pink"
+        },
+        "exemplos": {
+          "pt": ["A flor é rosa."],
+          "en": ["The flower is pink."]
+        },
+        "variacoes": {
+          "pt": ["rosa", "rosas"],
+          "en": []
+        },
+        "conjugacao_pt": null,
+        "conjugacao_en": null
+    },[
+        {
+          "palavra_pt": "marrom",
+          "palavra_en": "brown",
+          "tipo": "adjetivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "marrons",
+            "en": "brown"
+          },
+          "exemplos": {
+            "pt": ["O cachorro é marrom."],
+            "en": ["The dog is brown."]
+          },
+          "variacoes": {
+            "pt": ["marrom", "marrons"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "roxo",
+          "palavra_en": "purple",
+          "tipo": "adjetivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "roxos",
+            "en": "purple"
+          },
+          "exemplos": {
+            "pt": ["A camisa é roxa."],
+            "en": ["The shirt is purple."]
+          },
+          "variacoes": {
+            "pt": ["roxa", "roxas"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "claro",
+          "palavra_en": "light",
+          "tipo": "adjetivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "claros",
+            "en": "light"
+          },
+          "exemplos": {
+            "pt": ["O céu está claro."],
+            "en": ["The sky is light."]
+          },
+          "variacoes": {
+            "pt": ["clara", "claras"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "escuro",
+          "palavra_en": "dark",
+          "tipo": "adjetivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "escuros",
+            "en": "dark"
+          },
+          "exemplos": {
+            "pt": ["O quarto está escuro."],
+            "en": ["The room is dark."]
+          },
+          "variacoes": {
+            "pt": ["escura", "escuras"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "três",
+          "palavra_en": "three",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["Tenho três irmãos."],
+            "en": ["I have three brothers."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "quatro",
+          "palavra_en": "four",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["Comprei quatro maçãs."],
+            "en": ["I bought four apples."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "cinco",
+          "palavra_en": "five",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["São cinco horas."],
+            "en": ["It’s five o’clock."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "seis",
+          "palavra_en": "six",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["Tenho seis livros."],
+            "en": ["I have six books."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "sete",
+          "palavra_en": "seven",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["São sete dias na semana."],
+            "en": ["There are seven days in a week."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "oito",
+          "palavra_en": "eight",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["Tenho oito anos de experiência."],
+            "en": ["I have eight years of experience."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "nove",
+          "palavra_en": "nine",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["São nove horas da manhã."],
+            "en": ["It’s nine in the morning."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "dez",
+          "palavra_en": "ten",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": null,
+          "exemplos": {
+            "pt": ["Tenho dez reais na carteira."],
+            "en": ["I have ten reais in my wallet."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "cem",
+          "palavra_en": "hundred",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": {
+            "pt": "centenas",
+            "en": "hundreds"
+          },
+          "exemplos": {
+            "pt": ["Comprei cem balas."],
+            "en": ["I bought a hundred candies."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "mil",
+          "palavra_en": "thousand",
+          "tipo": "numeral",
+          "genero": null,
+          "plural": {
+            "pt": "milhares",
+            "en": "thousands"
+          },
+          "exemplos": {
+            "pt": ["Há mil pessoas na festa."],
+            "en": ["There are a thousand people at the party."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "milhão",
+          "palavra_en": "million",
+          "tipo": "numeral",
+          "genero": "masculino",
+          "plural": {
+            "pt": "milhões",
+            "en": "millions"
+          },
+          "exemplos": {
+            "pt": ["Ganhamos um milhão de reais."],
+            "en": ["We won a million reais."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "profissão",
+          "palavra_en": "profession",
+          "tipo": "substantivo",
+          "genero": "feminino",
+          "plural": {
+            "pt": "profissões",
+            "en": "professions"
+          },
+          "exemplos": {
+            "pt": ["Minha profissão é engenheiro."],
+            "en": ["My profession is engineer."]
+          },
+          "variacoes": {
+            "pt": [],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "engenheiro",
+          "palavra_en": "engineer",
+          "tipo": "substantivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "engenheiros",
+            "en": "engineers"
+          },
+          "exemplos": {
+            "pt": ["O engenheiro projetou a ponte."],
+            "en": ["The engineer designed the bridge."]
+          },
+          "variacoes": {
+            "pt": ["engenheira", "engenheiras"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "advogado",
+          "palavra_en": "lawyer",
+          "tipo": "substantivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "advogados",
+            "en": "lawyers"
+          },
+          "exemplos": {
+            "pt": ["O advogado defendeu o cliente."],
+            "en": ["The lawyer defended the client."]
+          },
+          "variacoes": {
+            "pt": ["advogada", "advogadas"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "motorista",
+          "palavra_en": "driver",
+          "tipo": "substantivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "motoristas",
+            "en": "drivers"
+          },
+          "exemplos": {
+            "pt": ["O motorista dirige o ônibus."],
+            "en": ["The driver drives the bus."]
+          },
+          "variacoes": {
+            "pt": ["motorista", "motoristas"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "policial",
+          "palavra_en": "police officer",
+          "tipo": "substantivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "policiais",
+            "en": "police officers"
+          },
+          "exemplos": {
+            "pt": ["O policial ajudou na rua."],
+            "en": ["The police officer helped on the street."]
+          },
+          "variacoes": {
+            "pt": ["policial", "policiais"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "bombeiro",
+          "palavra_en": "firefighter",
+          "tipo": "substantivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "bombeiros",
+            "en": "firefighters"
+          },
+          "exemplos": {
+            "pt": ["O bombeiro apagou o fogo."],
+            "en": ["The firefighter put out the fire."]
+          },
+          "variacoes": {
+            "pt": ["bombeira", "bombeiras"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        },
+        {
+          "palavra_pt": "cozinheiro",
+          "palavra_en": "cook",
+          "tipo": "substantivo",
+          "genero": "masculino",
+          "plural": {
+            "pt": "cozinheiros",
+            "en": "cooks"
+          },
+          "exemplos": {
+            "pt": ["O cozinheiro preparou o jantar."],
+            "en": ["The cook prepared dinner."]
+          },
+          "variacoes": {
+            "pt": ["cozinheira", "cozinheiras"],
+            "en": []
+          },
+          "conjugacao_pt": null,
+          "conjugacao_en": null
+        }
+      ]]
